@@ -1,6 +1,9 @@
 # daily_guidelines
 
-A new Flutter project.
+Daily Guide project. Daily helper application!
+
+Clean Architecture ✅
+BLoc management ✅
 
 ## Getting Started
 
