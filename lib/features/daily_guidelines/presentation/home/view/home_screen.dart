@@ -1,4 +1,4 @@
-import 'package:daily_guidelines/Resources/global_parameters.dart';
+import 'package:daily_guidelines/resources/global_parameters.dart';
 import 'package:flutter/material.dart';
 
 import '../../widgets/daily_card.dart';
@@ -47,7 +47,7 @@ class _HomeScreenViewState extends State<HomeScreenView> {
             child: DailyCard.quote(
               temporaryMotivationImageLink,
               "MOTIVATION",
-              "Winners are who never give up!",
+              "Winners are those who never give up!",
               Colors.green,
             ),
           ),
